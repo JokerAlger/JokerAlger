@@ -5,6 +5,12 @@
   <h5 align="center">A rider 🚲 who doesn't want to be a photographer 📷 is not a good programmer 💻</h5
 </p>
 
+
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jokerAlger" />
+
+
 <!-- 
 **JokerAlger/JokerAlger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,12 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![:mlldxe](https://count.getloli.com/get/@:JokerAlger?theme=JokerAlger)
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jokerAlger" />
-
-
-
 
 
 
