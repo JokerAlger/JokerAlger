@@ -32,7 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JokerAlger&layout=compact&hide=C#,ASP.NET)
 
 
-![](https://profile-counter.glitch.me/JokerAlger/count.svg)
+
 
 
 <!--
