@@ -1,8 +1,6 @@
 ### Hi there 👋
 <p align="center">
   <h3 align="center">JokerAlger</h3>
-  <h5 align="center">不想当摄影师📷的骑手🚲不是好程序员💻</h5>
-  <h5 align="center">A rider 🚲 who doesn't want to be a photographer 📷 is not a good programmer 💻</h5
 </p>
 
 
