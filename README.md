@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![:mlldxe](https://count.getloli.com/get/@:JokerAlger?theme=JokerAlger)
 ![亮色](https://raw.githubusercontent.com/JokerAlger/JokerAlger/output/github-contribution-grid-snake.svg)
 
 
